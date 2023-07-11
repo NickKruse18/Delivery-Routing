@@ -26,4 +26,6 @@ Here the map is of size 20 with 6 pairs of locations. Each pair is marked with a
 
 ![Ex2](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/cf59a92e-d19b-40a3-9835-326ea6e3f338)
 
+Here the path goes from the
+
 ![Ex3](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/045f7d61-28b5-449f-b2ed-bdab69a2c188)
