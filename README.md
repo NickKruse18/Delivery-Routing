@@ -24,7 +24,4 @@ Examples:
 Here the map is of size 20 with 6 pairs of locations. Each pair is marked with a number from 1 to 6. The blue numbers are pick up locations and the reds are delivery locations. The black point is the starting location, and the red edge is where the route starts.
 
 
-![Ex2](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/cf59a92e-d19b-40a3-9835-326ea6e3f338)
-
-
-![Ex3](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/045f7d61-28b5-449f-b2ed-bdab69a2c188)
+![Ex2](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/cf59a92e-d19b-40a3-9835-326ea6e3f338) ![Ex3](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/045f7d61-28b5-449f-b2ed-bdab69a2c188)
