@@ -13,5 +13,7 @@ To access the functions of the package it may be necessary to start every functi
 Every function has Rdocumentation so for more information about a function type fx. ?deliveryroute::Locations. 
 
 
-Examples
+#Examples:
+
+
 ![Ex1](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/234d094c-a0ad-4708-b6d7-4c50ff0189c0)
