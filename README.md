@@ -21,7 +21,7 @@ Examples:
 
 ![Ex1](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/234d094c-a0ad-4708-b6d7-4c50ff0189c0)
 
-Here the map is of size 20 with 6 pairs of locations. Each pair is marked with a number from 1 to 6. The blue numbers are pick up locations and the reds are delivery locations. The black point is the starting location, and the red edge is where the route starts.
+Here the map is of size 20 with 6 pairs of locations. Each pair is marked with a number from 1 to 6. The blue numbers are pick up locations and the reds are delivery locations. The black point is the starting location, and the red edge is where the route starts. Note that for each pair the blue number is alway visited before the red, fx. the blue 5 is 
 
 
 ![Ex2](https://github.com/NickKruse18/Delivery-Routing/assets/97922500/cf59a92e-d19b-40a3-9835-326ea6e3f338)
